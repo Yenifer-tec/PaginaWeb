@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Lobster',cursive; 
+}
+.ewk_navar{
+    background-color: rgba(255, 255, 255, 0.7) !important;
+}
+.ewk_navar div, .ewk_navar ul{
+    background-color: transparent !important;
+}
+
+.ewk_cont_sec_1{
+    padding: 10%;
+}
+.ewk_inicio{
+    background-image: url("../img/ACYUCBJMAFGQRACFW6H6IT4C6E.jpg");
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tamaño{
+    min-height: 4vh;
+    margin-bottom: 10px;
+}
+.estilo{
+    font-size: 4vh;
+    margin-bottom: 10px;
+}
